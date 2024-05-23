@@ -149,7 +149,10 @@ sudo apt-get install -y nodejs
 
 [Ghost-CLI](/api/ghost-cli/) is a commandline tool to help you get Ghost installed and configured for use, quickly and easily. The npm module can be installed with `npm` or `yarn`.
 
+Below is the npm install.
+
 ```bash
+sudo apt-get install -y npm
 sudo npm install ghost-cli@latest -g
 ```
 
